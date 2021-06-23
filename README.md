@@ -5,7 +5,7 @@ Ardupad USB Joypad
 Default configuration - 2 Joysticks, 13 Buttons, 1 Dpad.
 
 Joystick calibration:
-1: Press the buttons on pins D0 and D3 simultaneously to put the controller into calibration mode.
+1: Press the buttons on pins D0 and D3 simultaneously to put the controller into calibration mode. /n
 2: Centre both joysticks and press the button on pin D1 to record mid position, RX LED will blink once to confirm step complete.
 3: Move both joysticks to full extents of travel several times to record maximum axis values.
 4: Press button on D1 again. RX LED will blink once more to confirm.
