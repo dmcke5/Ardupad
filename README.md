@@ -1,4 +1,5 @@
 # Ardupad USB Joypad
+A fast, complete USB gamepad for Arduino based controllers.
 
 Default configuration - 2 Joysticks, 13 Buttons, 1 Dpad.
 
