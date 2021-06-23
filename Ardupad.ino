@@ -1,5 +1,5 @@
 /*  
- * ATMEGA32u4 USB Joypad for project Retrolite CM4.
+ * Ardupad for Atmega32u4
  * Default configuration - 2 Joysticks, 13 Buttons, 1 Dpad.
  * 
  * Joystick calibration:
