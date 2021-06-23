@@ -1,3 +1,5 @@
+All buttons should be connected between their corresponding pin and GND.
+
 A = D1
 B = D5
 X = D2
