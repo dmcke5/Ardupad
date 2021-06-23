@@ -1,6 +1,7 @@
 # Ardupad
 
 Ardupad USB Joypad
+
 Default configuration - 2 Joysticks, 13 Buttons, 1 Dpad.
 
 Joystick calibration:
